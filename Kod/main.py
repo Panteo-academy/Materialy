@@ -1,3 +1,5 @@
+# Program wypisujący na ekran komunikaty.
+
 print("HW")
 <<<<<<< HEAD
 print("Witaj")
