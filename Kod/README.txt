@@ -1,0 +1,1 @@
+Autor: Micha³ Kruczkowski
