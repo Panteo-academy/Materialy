@@ -1,1 +1,2 @@
 Pierwszy zapis!
+Drugi zapis!
