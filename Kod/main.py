@@ -1,3 +1,5 @@
+# Program bez interacji z użytkownikiem!
+
 print("HW")
 <<<<<<< HEAD
 print("Witaj")
