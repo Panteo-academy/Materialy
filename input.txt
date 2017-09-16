@@ -1,0 +1,9 @@
+2016
+Miesiace sty lut mar kwi maj cze lip sie wrz paz lis gru
+w dzien 1°C 3°C 9°C 14°C 20°C 23°C 25°C 25°C 21°C 14°C 9°C 5°C
+w nocy -2°C -2°C 1°C 4°C 8°C 12°C 15°C 15°C 11°C 6°C 2°C 0°C
+----
+2017
+Miesiace sty lut mar kwi maj cze lip sie wrz paz lis gru
+w dzien 1°C 3°C 9°C 14°C 20°C 23°C 25°C 25°C 21°C 14°C 9°C 5°C
+w nocy -2°C -2°C 1°C 4°C 8°C 12°C 15°C 15°C 11°C 6°C 2°C 0°C
